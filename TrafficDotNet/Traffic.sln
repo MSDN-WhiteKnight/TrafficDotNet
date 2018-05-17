@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traffic", "Traffic\Traffic.csproj", "{9B57E196-7E78-4734-B02E-56251792C1EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficLib", "TrafficLib\TrafficLib.csproj", "{A2E70974-05BE-493A-ACFD-DC7625A00945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|64bit = Debug|64bit
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|64bit = Release|64bit
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B57E196-7E78-4734-B02E-56251792C1EE}.Debug|64bit.ActiveCfg = Debug|x64
+		{9B57E196-7E78-4734-B02E-56251792C1EE}.Debug|64bit.Build.0 = Debug|x64
+		{9B57E196-7E78-4734-B02E-56251792C1EE}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{9B57E196-7E78-4734-B02E-56251792C1EE}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{9B57E196-7E78-4734-B02E-56251792C1EE}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{9B57E196-7E78-4734-B02E-56251792C1EE}.Debug|x86.ActiveCfg = Debug|x86
+		{9B57E196-7E78-4734-B02E-56251792C1EE}.Debug|x86.Build.0 = Debug|x86
+		{9B57E196-7E78-4734-B02E-56251792C1EE}.Release|64bit.ActiveCfg = Release|x64
+		{9B57E196-7E78-4734-B02E-56251792C1EE}.Release|Any CPU.ActiveCfg = Release|x86
+		{9B57E196-7E78-4734-B02E-56251792C1EE}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{9B57E196-7E78-4734-B02E-56251792C1EE}.Release|Mixed Platforms.Build.0 = Release|x86
+		{9B57E196-7E78-4734-B02E-56251792C1EE}.Release|x86.ActiveCfg = Release|x86
+		{9B57E196-7E78-4734-B02E-56251792C1EE}.Release|x86.Build.0 = Release|x86
+		{A2E70974-05BE-493A-ACFD-DC7625A00945}.Debug|64bit.ActiveCfg = Debug|x64
+		{A2E70974-05BE-493A-ACFD-DC7625A00945}.Debug|64bit.Build.0 = Debug|x64
+		{A2E70974-05BE-493A-ACFD-DC7625A00945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E70974-05BE-493A-ACFD-DC7625A00945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E70974-05BE-493A-ACFD-DC7625A00945}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{A2E70974-05BE-493A-ACFD-DC7625A00945}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{A2E70974-05BE-493A-ACFD-DC7625A00945}.Debug|x86.ActiveCfg = Debug|x86
+		{A2E70974-05BE-493A-ACFD-DC7625A00945}.Debug|x86.Build.0 = Debug|x86
+		{A2E70974-05BE-493A-ACFD-DC7625A00945}.Release|64bit.ActiveCfg = Release|x64
+		{A2E70974-05BE-493A-ACFD-DC7625A00945}.Release|64bit.Build.0 = Release|x64
+		{A2E70974-05BE-493A-ACFD-DC7625A00945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E70974-05BE-493A-ACFD-DC7625A00945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2E70974-05BE-493A-ACFD-DC7625A00945}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{A2E70974-05BE-493A-ACFD-DC7625A00945}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{A2E70974-05BE-493A-ACFD-DC7625A00945}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
